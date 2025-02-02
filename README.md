@@ -6,7 +6,7 @@ This project demonstrates the analysis and visualization of sales data using SQL
 
 Tools & Technologies:
 - Database Management: MySQL Workbench
-- Data Analysis & Manipulation: Python (Pandas, Statsmodels, Scikit-learn)
+- Data Analysis & Manipulation: Python (Pandas, Scikit-learn, Statsmodels)
 - Data Visualization: Tableau Public
 - Version Control: GitHub
 
