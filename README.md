@@ -1,4 +1,4 @@
-# Sales Analytics: Trends & Predictive Insights (Work in Progress)
+# (Work in Progress) Sales Analytics: Trends & Predictive Insights
 
 Sales Analytics: Trends & Predictive Insights
 
