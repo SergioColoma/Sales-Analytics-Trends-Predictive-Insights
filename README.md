@@ -1,6 +1,7 @@
 # (Work in Progress) Sales Analytics: Trends & Predictive Insights
 
 Sales Analytics: Trends & Predictive Insights
+
 (To check the current status and progress of the project, please visit the Project section).
 
 This project demonstrates the analysis and visualization of sales data using SQL, Python, and Tableau. It covers data manipulation, business intelligence, and basic predictive analytics.
