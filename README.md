@@ -8,7 +8,6 @@ Tools & Technologies:
 - Database Management: MySQL Workbench
 - Data Analysis & Manipulation: Python (Pandas, Scikit-learn, Statsmodels)
 - Data Visualization: Tableau Public
-- Version Control: GitHub
 
 Business questions:
 - Sales Trends: Analyze sales trends, product performance, and seasonal fluctuations.
