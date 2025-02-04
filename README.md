@@ -20,8 +20,9 @@ Project steps:
 - Define Business Objectives: Identify key business questions.
 - Data Import & Setup (SQL): Import and organize data in MySQL.
 - Data Exploration (SQL): Write queries to calculate sales, trends, and customer segmentation.
-- Data Cleaning (Python): Clean and transform data using Pandas.
+- Data Cleaning (Python): Clean and transform data using Pandas. (not necessary)
 - Exploratory Data Analysis (Python): Identify patterns and correlations.
+- Data Visualization (Python): Create visualizations.
 - Statistical Analysis (Python): Test hypotheses and perform regression analysis.
 - Predictive Modeling (Python): Build and evaluate a simple regression model.
 - Data Visualization (Tableau): Create interactive dashboards and visualizations.
